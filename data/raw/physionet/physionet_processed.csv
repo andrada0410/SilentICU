@@ -1,0 +1,751 @@
+record_id,alarm_type,is_true_alarm,fs,duration_sec,channels,pleth_mean,ecg_std,abp_mean,abp_min
+v100s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.0,1.0472,,
+v101l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.0,1.0814,,
+v102s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.0,1.1067,,
+a103l,Asystole,True,250,330.0,"II, V, PLETH",3.6,0.6358,,
+a104s,Asystole,True,250,300.0,"II, V, PLETH",7.1,3.1695,,
+a105l,Asystole,True,250,330.0,"II, V, PLETH",2.4,0.4699,,
+t106s,Tachycardia,False,250,300.0,"II, III, PLETH",5.1,0.9393,,
+t107l,Tachycardia,False,250,330.0,"II, III, PLETH",5.0,0.7024,,
+t108s,Tachycardia,False,250,300.0,"II, III, PLETH",3.5,0.9919,,
+a109l,Asystole,True,250,330.0,"II, aVF, ABP, RESP",,0.8683,82.2,54.4
+t110s,Tachycardia,False,250,300.0,"II, V, ABP",,0.7561,122.5,91.5
+v111l,Ventricular Tachycardia,True,250,330.0,"II, aVF, PLETH, RESP",2.3,0.8633,,
+t112s,Tachycardia,False,250,300.0,"II, V, PLETH",12.2,0.9144,,
+v113l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",1.9,0.816,,
+t114s,Tachycardia,False,250,300.0,"II, V, PLETH",2.4,0.6284,,
+v115l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",-0.0,0.9956,601.9,601.9
+t116s,Tachycardia,True,250,300.0,"I, MCL, ABP, RESP",,,82.5,57.2
+t117l,Tachycardia,False,250,330.0,"II, V, PLETH",2.3,0.7693,,
+t118s,Tachycardia,False,250,300.0,"II, V, PLETH",2.5,0.9446,,
+v119l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.7534,178.4,115.0
+f120s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, ABP",0.0,1.2623,124.2,96.4
+f121l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, ABP",0.1,0.7993,138.4,111.9
+v122s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.1343,189.3,177.6
+a123l,Asystole,True,250,330.0,"II, V, PLETH, ABP",-0.0,0.0,71.7,71.5
+b124s,Bradycardia,False,250,300.0,"II, V, PLETH",-0.0,0.7394,,
+b125l,Bradycardia,False,250,330.0,"II, V, PLETH",-0.1,0.8351,,
+b126s,Bradycardia,False,250,300.0,"II, V, PLETH",0.0,0.7365,,
+v127l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.6,1.2137,,
+v128s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.5,2.8228,,
+f129l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, ABP",0.0,0.8744,101.5,79.5
+f130s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, ABP",0.3,0.7579,113.8,84.1
+v131l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.9802,103.8,74.8
+v132s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.4,0.9578,,
+v133l,Ventricular Tachycardia,False,250,330.0,"II, MCL, ABP, RESP",,1.0361,134.6,110.0
+a134s,Asystole,True,250,300.0,"II, V, PLETH, ABP",0.1,2.6082,-2.8,-30.9
+v135l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.1,0.6642,73.3,47.8
+v136s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.7477,64.6,35.6
+f137l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",2.4,0.7212,,
+f138s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",3.6,1.0433,,
+v139l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",2.1,0.7349,,
+v140s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.1,0.7743,127.1,93.0
+v141l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.4633,0.0,0.0
+a142s,Asystole,False,250,300.0,"II, V, PLETH, ABP",0.0,0.2785,19.3,10.7
+v143l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, RESP",-0.4,0.9572,,
+f144s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, RESP",0.1,0.7061,,
+a145l,Asystole,True,250,330.0,"II, V, PLETH, RESP",-0.5,0.9639,,
+v146s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",0.1,0.9409,,
+v147l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.1,0.9418,-182.9,-202.5
+v148s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.7854,-601.9,-601.9
+t149l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",3.2,0.6128,,
+t150s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.8,0.7572,,
+t151l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",3.3,0.6176,,
+a152s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.2,0.0,,
+v153l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.3,0.5919,,
+v154s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.3,0.734,105.8,87.3
+v155l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.4,0.5564,,
+t156s,Tachycardia,False,250,300.0,"II, V, PLETH",8.3,0.8384,,
+t157l,Tachycardia,False,250,330.0,"II, V, PLETH",8.2,0.8523,,
+v158s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",2.1,2.1567,,
+v159l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",2.6,1.0802,,
+v160s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.7823,129.3,96.9
+a161l,Asystole,False,250,330.0,"II, V, PLETH, RESP",-0.7,0.4188,,
+v162s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,0.7648,91.9,59.5
+a163l,Asystole,True,250,330.0,"II, V, PLETH, RESP",2.0,0.2676,,
+v164s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.0,0.634,,
+a165l,Asystole,True,250,330.0,"II, V, PLETH, RESP",2.0,0.7369,,
+v166s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.9,0.9863,74.3,51.0
+a167l,Asystole,False,250,330.0,"II, V, PLETH, ABP",7.4,0.1622,71.4,66.6
+v168s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",10.1,0.7433,85.9,59.9
+v169l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.7,0.9839,88.3,58.3
+a170s,Asystole,True,250,300.0,"II, V, PLETH, ABP",9.4,0.6964,71.4,34.3
+a171l,Asystole,True,250,330.0,"II, V, PLETH, ABP",9.6,0.6845,63.9,34.4
+a172s,Asystole,False,250,300.0,"II, V, PLETH, ABP",6.9,0.1493,72.4,70.2
+t173l,Tachycardia,False,250,330.0,"II, V, PLETH, ABP",7.7,0.8105,73.8,44.8
+t174s,Tachycardia,False,250,300.0,"II, V, PLETH, ABP",10.7,0.8516,81.5,49.9
+t175l,Tachycardia,False,250,330.0,"II, V, PLETH, ABP",10.8,0.847,82.9,51.1
+v176s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.5,5.0641,52.2,-37.6
+v177l,Ventricular Tachycardia,True,250,330.0,"II, III, PLETH, ABP",2.2,0.725,73.0,-0.3
+a178s,Asystole,True,250,300.0,"II, V, PLETH, ABP",7.1,13.0337,83.4,57.8
+v179l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",6.9,0.1843,79.7,24.6
+v180s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",9.8,1.1225,76.9,42.9
+v181l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.7779,93.9,49.2
+v182s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.9155,147.4,65.0
+b183l,Bradycardia,False,250,330.0,"II, V, PLETH",0.0,0.3042,,
+b184s,Bradycardia,True,250,300.0,"II, V, PLETH",0.0,1.1221,,
+a185l,Asystole,False,250,330.0,"II, V, PLETH",0.0,0.6879,,
+a186s,Asystole,True,250,300.0,"II, V, PLETH, RESP",1.1,0.7971,,
+b187l,Bradycardia,False,250,330.0,"II, V, PLETH, RESP",-0.3,0.3524,,
+v188s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",-0.1,0.9201,,
+f189l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, RESP",0.1,0.577,,
+f190s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, RESP",0.4,0.6442,,
+t191l,Tachycardia,False,250,330.0,"II, V, PLETH",3.5,0.795,,
+t192s,Tachycardia,False,250,300.0,"II, V, PLETH",7.9,0.7674,,
+t193l,Tachycardia,False,250,330.0,"II, V, PLETH",6.4,0.7781,,
+v194s,Ventricular Tachycardia,False,250,300.0,"II, III, PLETH",2.3,1.14,,
+t195l,Tachycardia,False,250,330.0,"II, III, PLETH",2.6,0.9699,,
+f196s,Ventricular Flutter Fib,True,250,300.0,"II, V, ABP",,0.8143,70.0,40.4
+v197l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.6832,76.0,54.8
+v198s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.6,1.2575,,
+v199l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",2.5,0.633,,
+v200s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.1,1.1829,117.2,77.0
+v201l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.1,0.9175,112.4,73.4
+v202s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",8.8,0.8897,70.1,41.3
+a203l,Asystole,False,250,330.0,"II, V, PLETH, RESP",4.6,0.1565,,
+v204s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",6.0,2.6215,,
+v205l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",3.3,0.5747,103.5,54.5
+v206s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.3,0.9199,,
+v207l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.4,0.5747,,
+t208s,Tachycardia,False,250,300.0,"I, MCL, ABP, RESP",,,76.6,10.6
+t209l,Tachycardia,False,250,330.0,"I, MCL, ABP, RESP",,,57.4,42.1
+v210s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.6,1.0107,,
+v211l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.1,0.9169,,
+v212s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.4,2.9714,,
+t213l,Tachycardia,False,250,330.0,"II, V, PLETH, ABP",6.8,0.7953,82.3,57.0
+t214s,Tachycardia,False,250,300.0,"II, V, PLETH, ABP",6.4,0.8264,87.0,58.0
+b215l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.9568,-601.9,-601.9
+b216s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.1496,-601.9,-601.9
+v217l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.2,0.8246,453.3,394.4
+v218s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,4.059,111.0,79.0
+a219l,Asystole,True,250,330.0,"II, V, PLETH, RESP",-1.7,1.9211,,
+b220s,Bradycardia,False,250,300.0,"II, V, PLETH, RESP",0.2,0.5939,,
+v221l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",5.2,0.5325,59.3,26.4
+v222s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.5,0.5499,66.4,38.5
+a223l,Asystole,True,250,330.0,"II, III, PLETH, ABP",4.6,0.6694,70.6,44.2
+v224s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.6,0.2123,70.3,39.5
+a225l,Asystole,True,250,330.0,"II, III, PLETH, ABP",4.9,0.8672,66.6,39.2
+a226s,Asystole,True,250,300.0,"II, III, PLETH, ABP",6.2,0.8784,59.1,34.3
+b227l,Bradycardia,False,250,330.0,"II, V, PLETH",2.0,1.5053,,
+b228s,Bradycardia,False,250,300.0,"II, V, PLETH",2.2,1.2113,,
+b229l,Bradycardia,False,250,330.0,"II, V, PLETH",2.2,1.6513,,
+v230s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,5.2067,-601.9,-601.9
+b231l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",0.1,0.7206,-601.9,-601.9
+v232s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,3.6389,-92.4,-191.3
+v233l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",-0.1,1.1913,-72.7,-75.6
+t234s,Tachycardia,False,250,300.0,"II, V, PLETH",2.6,0.7808,,
+t235l,Tachycardia,False,250,330.0,"II, V, PLETH",2.3,0.697,,
+f236s,Ventricular Flutter Fib,True,250,300.0,"II, V, ABP, RESP",,0.9147,56.6,25.6
+f237l,Ventricular Flutter Fib,True,250,330.0,"II, V, ABP, RESP",,1.1321,55.6,28.6
+t238s,Tachycardia,False,250,300.0,"II, V, PLETH",5.4,1.254,,
+a239l,Asystole,True,250,330.0,"II, V, PLETH",6.3,1.0642,,
+t240s,Tachycardia,False,250,300.0,"II, V, PLETH",2.9,1.2953,,
+v241l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",7.5,0.6505,81.4,42.7
+v242s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.6,2.9801,,
+v243l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.7,0.729,,
+v244s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",1.8,0.1799,,
+v245l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.0,0.1764,,
+v246s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.9,1.6184,90.3,59.0
+v247l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",7.6,0.8616,108.1,80.5
+v248s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.4,0.5196,89.6,42.5
+t249l,Tachycardia,False,250,330.0,"II, V, PLETH, ABP",5.5,2.3202,163.5,153.8
+v250s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.2,2.4275,,
+t251l,Tachycardia,False,250,330.0,"II, V, PLETH, ABP",7.5,0.9871,138.9,113.9
+t252s,Tachycardia,False,250,300.0,"II, V, PLETH, ABP",5.1,1.0442,237.6,157.6
+v253l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",1.7,1.0974,87.6,52.7
+v254s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, ABP",2.0,1.2283,74.1,39.4
+v255l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",1.9,0.9188,84.8,50.1
+v256s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.5,0.6645,,
+v257l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.5,1.357,,
+v258s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",0.0,0.6633,,
+v259l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",0.6,0.761,,
+f260s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",2.6,2.3171,,
+f261l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",2.5,0.8751,,
+v262s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.5,1.0997,,
+t263l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",3.0,0.7388,,
+t264s,Tachycardia,False,250,300.0,"II, V, PLETH",2.7,1.2753,,
+b265l,Bradycardia,False,250,330.0,"II, V, PLETH",2.6,1.3583,,
+a266s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.2,5.4286,,
+a267l,Asystole,True,250,330.0,"II, V, PLETH, RESP",2.2,1.4044,,
+b268s,Bradycardia,False,250,300.0,"II, V, ABP, RESP",,1.3932,84.9,55.4
+b269l,Bradycardia,False,250,330.0,"II, MCL, PLETH",4.8,0.8188,,
+t270s,Tachycardia,False,250,300.0,"II, MCL, PLETH",4.3,0.8341,,
+v271l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.0,0.2573,,
+a272s,Asystole,True,250,300.0,"II, V, PLETH, ABP",6.5,1.1864,116.9,112.7
+a273l,Asystole,True,250,330.0,"II, V, PLETH, ABP",2.8,1.1355,61.2,23.7
+v274s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.3,1.018,,
+v275l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, RESP",3.2,1.1045,,
+t276s,Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.7765,92.7,63.4
+t277l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.7497,92.8,61.4
+a278s,Asystole,True,250,300.0,"II, V, PLETH, RESP",1.9,0.4094,,
+a279l,Asystole,True,250,330.0,"II, V, PLETH, RESP",2.9,0.0,,
+v280s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.1,1.1841,,
+f281l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",2.1,0.5493,,
+v282s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.0,1.3001,,
+v283l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP",,1.0198,74.7,49.5
+t284s,Tachycardia,False,250,300.0,"II, V, ABP",,0.6132,-125.5,-125.6
+b285l,Bradycardia,True,250,330.0,"II, V, ABP, RESP",,0.82,79.0,54.2
+b286s,Bradycardia,True,250,300.0,"II, V, ABP, RESP",,1.2122,37.4,26.8
+a287l,Asystole,True,250,330.0,"II, V, ABP, RESP",,2.0359,55.7,29.6
+a288s,Asystole,True,250,300.0,"II, V, ABP, RESP",,2.0552,56.8,31.2
+v289l,Ventricular Tachycardia,True,250,330.0,"I, V, ABP, RESP",,,86.6,60.0
+v290s,Ventricular Tachycardia,False,250,300.0,"I, V, ABP, RESP",,,80.8,52.1
+v291l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",8.1,1.0169,92.8,55.5
+v292s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.6,0.96,87.3,55.6
+v293l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",7.5,0.9436,96.8,58.9
+v294s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,2.8739,75.7,33.7
+v295l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP",,0.7411,80.5,38.1
+v296s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP",,2.7703,135.4,82.9
+a297l,Asystole,True,250,330.0,"II, V, PLETH, ABP",0.0,0.1099,71.3,42.6
+v298s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,3.6647,263.6,222.0
+b299l,Bradycardia,False,250,330.0,"II, V, PLETH",2.8,1.2776,,
+t300s,Tachycardia,False,250,300.0,"II, V, PLETH",3.0,0.8097,,
+a301l,Asystole,True,250,330.0,"II, V, PLETH, RESP",2.5,0.9573,,
+a302s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.6,1.7646,,
+v303l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",4.4,0.8737,,
+f304s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, RESP",4.5,0.9841,,
+t305l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.9532,126.4,126.3
+a306s,Asystole,True,250,300.0,"II, V, PLETH",0.0,1.7354,,
+v307l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",-0.0,1.0999,,
+b308s,Bradycardia,True,250,300.0,"II, V, PLETH",0.0,1.5709,,
+v309l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",3.8,0.8793,252.9,214.7
+a310s,Asystole,True,250,300.0,"II, V, PLETH, ABP",2.8,0.5672,209.9,182.2
+a311l,Asystole,True,250,330.0,"II, V, PLETH, ABP",2.7,0.6348,211.4,181.3
+v312s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",3.3,0.7318,195.0,156.0
+b313l,Bradycardia,False,250,330.0,"II, V, PLETH, RESP",0.1,0.838,,
+b314s,Bradycardia,True,250,300.0,"II, V, PLETH, RESP",-0.1,0.0,,
+a315l,Asystole,True,250,330.0,"II, V, PLETH, RESP",-0.2,1.0071,,
+v316s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",4.8,1.1787,,
+v317l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.4,1.0489,,
+v318s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, ABP",4.7,2.501,71.7,-323.1
+v319l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",9.9,0.543,136.1,96.3
+t320s,Tachycardia,False,250,300.0,"II, III, PLETH",2.4,0.7554,,
+f321l,Ventricular Flutter Fib,True,250,330.0,"II, III, PLETH",4.2,0.6784,,
+v322s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",0.0,0.9794,,
+v323l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.1,0.9911,601.9,601.9
+v324s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",3.6,1.1074,163.7,143.4
+v325l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.8,0.7518,27.2,16.7
+v326s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.7,0.525,,
+v327l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",3.1,0.8661,,
+v328s,Ventricular Tachycardia,False,250,300.0,"III, V, ABP, RESP",,,72.0,46.2
+v329l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.7236,68.1,43.7
+b330s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.5887,39.7,25.6
+b331l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.9619,41.8,19.0
+b332s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.8682,39.8,18.9
+t333l,Tachycardia,False,250,330.0,"II, V, ABP",,1.21,62.7,40.3
+v334s,Ventricular Tachycardia,False,250,300.0,"II, V, ABP",,1.3915,72.3,44.9
+t335l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.9761,64.9,24.1
+v336s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.8994,601.9,601.9
+v337l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",-0.0,0.9548,601.9,601.9
+v338s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.2414,601.9,601.9
+b339l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.5922,601.9,601.9
+b340s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.7917,250.9,204.1
+b341l,Bradycardia,True,250,330.0,"II, V, PLETH",0.1,0.8252,,
+t342s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",3.3,0.9547,,
+t343l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",3.1,0.8566,,
+t344s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.9,1.079,,
+a345l,Asystole,False,250,330.0,"II, V, PLETH, ABP",0.0,0.1549,-70.5,-77.0
+f346s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, ABP",0.0,0.386,-73.9,-75.0
+v347l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,1.209,-187.7,-225.3
+v348s,Ventricular Tachycardia,False,250,300.0,"II, MCL, PLETH, RESP",2.4,1.2745,,
+b349l,Bradycardia,True,250,330.0,"I, MCL, ABP, RESP",,,111.2,74.8
+t350s,Tachycardia,False,250,300.0,"II, III, PLETH",4.4,1.1104,,
+t351l,Tachycardia,False,250,330.0,"II, III, PLETH",2.5,0.8901,,
+f352s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, ABP",0.0,0.605,58.4,31.4
+v353l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.1,1.6111,66.7,36.0
+v354s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.3,0.4748,,
+v355l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.3,0.7108,,
+t356s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.8,0.6071,,
+t357l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",2.9,0.9795,,
+t358s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.8,0.8806,,
+v359l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,1.3627,112.5,84.6
+v360s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,2.8054,108.6,80.5
+v361l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.4,0.8908,106.4,73.6
+f362s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, ABP",2.4,6.2999,133.4,98.8
+a363l,Asystole,True,250,330.0,"II, V, PLETH, ABP",0.0,4.1452,36.8,21.2
+v364s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.0617,0.0,0.0
+v365l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.2,0.8662,107.2,99.3
+v366s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.1,3.7218,,
+v367l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.7,2.4949,,
+v368s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.3,1.5493,,
+v369l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",0.0,1.2161,,
+v370s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.1,1.9039,119.1,72.2
+v371l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,2.1332,127.4,94.0
+a372s,Asystole,False,250,300.0,"II, V, PLETH",0.0,0.354,,
+v373l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.7791,87.5,58.1
+v374s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.9477,96.9,52.4
+v375l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",9.5,0.9048,,
+a376s,Asystole,True,250,300.0,"II, V, PLETH, RESP",9.2,0.6573,,
+a377l,Asystole,True,250,330.0,"II, V, PLETH, RESP",9.6,0.6324,,
+a378s,Asystole,True,250,300.0,"II, V, PLETH, RESP",9.7,0.7174,,
+b379l,Bradycardia,False,250,330.0,"II, MCL, PLETH, RESP",2.8,0.9927,,
+v380s,Ventricular Tachycardia,True,250,300.0,"II, MCL, PLETH, RESP",2.7,1.338,,
+v381l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.4,0.9656,77.1,55.4
+a382s,Asystole,True,250,300.0,"II, V, PLETH, ABP",2.4,0.0,89.1,34.8
+t383l,Tachycardia,True,250,330.0,"II, V, ABP, RESP",,0.9922,155.8,120.3
+t384s,Tachycardia,True,250,300.0,"II, V, ABP, RESP",,0.9875,150.2,114.4
+a385l,Asystole,False,250,330.0,"II, V, PLETH",4.3,0.082,,
+a386s,Asystole,False,250,300.0,"II, V, PLETH",4.9,0.7505,,
+b387l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,1.2989,126.1,92.4
+b388s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.1817,131.3,94.7
+b389l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",-0.0,1.0468,601.9,601.9
+v390s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.8347,601.9,601.9
+a391l,Asystole,True,250,330.0,"II, V, PLETH, RESP",2.6,0.0,,
+v392s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",8.4,1.3635,126.0,84.9
+t393l,Tachycardia,False,250,330.0,"II, V, PLETH",2.3,1.2767,,
+t394s,Tachycardia,False,250,300.0,"II, V, PLETH",2.4,1.011,,
+v395l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",3.7,0.5545,,
+a396s,Asystole,True,250,300.0,"II, V, PLETH, RESP",3.9,0.0,,
+a397l,Asystole,True,250,330.0,"II, V, PLETH, RESP",4.2,0.4355,,
+v398s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,3.3049,107.3,66.8
+v399l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.7431,119.4,63.2
+v400s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.5,0.0,,
+v401l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.1,0.4142,,
+v402s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.4,0.7171,,
+v403l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.2,0.8396,98.5,77.7
+v404s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.0,1.8725,,
+v405l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",5.5,0.4695,51.9,34.4
+t406s,Tachycardia,False,250,300.0,"II, V, PLETH, ABP",2.5,1.4636,155.9,121.0
+f407l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, ABP",10.5,0.8823,124.0,76.7
+f408s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, ABP",10.2,0.8333,124.3,87.8
+t409l,Tachycardia,True,250,330.0,"II, V, PLETH, ABP",10.5,0.9044,128.7,88.1
+t410s,Tachycardia,False,250,300.0,"II, V, PLETH",4.8,1.0522,,
+t411l,Tachycardia,False,250,330.0,"II, V, PLETH",3.4,0.7766,,
+t412s,Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.8916,87.5,58.1
+t413l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.7499,94.1,58.0
+f414s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, RESP",2.3,0.6652,,
+f415l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, RESP",2.1,1.0686,,
+t416s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.3,1.2139,,
+t417l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.2087,90.2,61.6
+t418s,Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.9936,54.1,34.3
+v419l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",3.0,0.8605,,
+a420s,Asystole,True,250,300.0,"II, V, PLETH, RESP",3.5,1.0628,,
+v421l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.4,0.9929,,
+a422s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.4,0.7796,,
+v423l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",4.2,0.887,,
+t424s,Tachycardia,False,250,300.0,"II, V, ABP, RESP",,1.0613,79.6,37.7
+t425l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.9723,98.8,65.1
+v426s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",6.1,0.9946,,
+v427l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",3.9,2.0747,,
+b428s,Bradycardia,True,250,300.0,"II, MCL, PLETH, RESP",3.1,1.7708,,
+a429l,Asystole,True,250,330.0,"II, MCL, ABP, RESP",,0.692,130.3,86.9
+t430s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.8,0.3439,,
+v431l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",10.1,1.4322,601.9,601.9
+v432s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",10.1,2.1785,601.9,601.9
+v433l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",6.5,3.4421,,
+t434s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",6.4,0.8974,,
+a435l,Asystole,True,250,330.0,"II, V, PLETH",2.4,0.8158,,
+a436s,Asystole,True,250,300.0,"II, V, PLETH",2.2,1.0697,,
+v437l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.2,0.3096,125.7,89.8
+v438s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.0,1.2615,,
+a439l,Asystole,True,250,330.0,"I, II, PLETH, RESP",2.2,0.6144,,
+f440s,Ventricular Flutter Fib,True,250,300.0,"I, II, ABP, RESP",,0.9915,61.1,31.9
+f441l,Ventricular Flutter Fib,True,250,330.0,"II, MCL, ABP, RESP",,0.7965,46.3,29.1
+a442s,Asystole,False,250,300.0,"II, V, PLETH",9.7,0.7879,,
+a443l,Asystole,False,250,330.0,"II, V, PLETH",9.5,0.0568,,
+t444s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",4.2,0.5581,,
+t445l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",9.7,1.0416,,
+a446s,Asystole,False,250,300.0,"II, V, PLETH",9.7,0.9886,,
+t447l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",3.4,0.777,,
+v448s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",0.0,1.9302,,
+a449l,Asystole,False,250,330.0,"II, V, PLETH",0.0,0.2793,,
+f450s,Ventricular Flutter Fib,False,250,300.0,"II, V, PLETH",0.0,1.7241,,
+b451l,Bradycardia,True,250,330.0,"II, V, PLETH",0.0,1.1485,,
+v452s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",0.0,3.3843,,
+v453l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",0.0,0.6474,,
+v454s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",0.0,1.3769,,
+b455l,Bradycardia,False,250,330.0,"II, V, PLETH, ABP",0.0,0.8128,54.4,22.7
+b456s,Bradycardia,False,250,300.0,"II, V, PLETH, ABP",0.0,0.9749,74.1,49.5
+a457l,Asystole,True,250,330.0,"III, V, PLETH, RESP",2.3,,,
+t458s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.7,0.7869,,
+v459l,Ventricular Tachycardia,True,250,330.0,"III, V, ABP, RESP",,,72.6,9.8
+v460s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.8081,36.8,19.5
+a461l,Asystole,True,250,330.0,"II, V, PLETH, ABP",-0.1,0.9547,92.0,54.8
+a462s,Asystole,True,250,300.0,"II, V, PLETH, ABP",0.0,0.0012,111.0,47.9
+v463l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP",,0.7681,-14.7,-601.9
+v464s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,0.9076,233.4,199.0
+a465l,Asystole,True,250,330.0,"II, V, PLETH, ABP",-0.0,0.0353,86.4,61.8
+v466s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.6279,101.1,56.1
+t467l,Tachycardia,False,250,330.0,"II, V, PLETH",2.4,1.1562,,
+t468s,Tachycardia,False,250,300.0,"II, V, PLETH",2.6,0.8125,,
+t469l,Tachycardia,True,250,330.0,"II, V, PLETH",3.0,0.8874,,
+v470s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",8.4,1.7229,,
+v471l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",0.0,0.9718,,
+v472s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.1,0.9606,-601.9,-601.9
+v473l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,1.2393,-601.9,-601.9
+f474s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",-0.0,4.4324,,
+v475l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",0.0,3.1696,,
+v476s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",0.0,1.7552,,
+t477l,Tachycardia,False,250,330.0,"III, V, PLETH",2.2,,,
+t478s,Tachycardia,False,250,300.0,"III, V, PLETH",3.8,,,
+v479l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,0.8116,110.8,74.2
+v480s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,1.6152,109.5,66.3
+v481l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",3.2,0.8184,115.7,83.4
+v482s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.4,0.9937,101.9,49.5
+v483l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.5,0.8412,129.0,80.5
+b484s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,1.1239,407.2,350.1
+b485l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",-0.0,0.8496,205.5,156.7
+b486s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,2.4097,601.9,601.9
+b487l,Bradycardia,True,250,330.0,"II, V, PLETH, RESP",-0.3,1.0735,,
+b488s,Bradycardia,True,250,300.0,"II, V, PLETH, RESP",0.1,1.0683,,
+v489l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,1.5698,123.4,86.1
+a490s,Asystole,True,250,300.0,"II, V, PLETH, ABP",0.0,1.8465,123.9,69.3
+v491l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.4,1.8629,79.0,50.8
+v492s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.2,2.4435,87.2,25.7
+f493l,Ventricular Flutter Fib,True,250,330.0,"II, V, ABP, RESP",,0.9258,79.4,53.8
+b494s,Bradycardia,False,250,300.0,"II, V, ABP, RESP",,0.4565,74.7,48.7
+b495l,Bradycardia,False,250,330.0,"II, V, ABP, RESP",,0.7476,90.1,49.2
+t496s,Tachycardia,True,250,300.0,"II, V, ABP",,1.1579,104.5,77.4
+b497l,Bradycardia,False,250,330.0,"II, V, PLETH, RESP",2.4,0.4114,,
+v498s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,0.8766,-601.9,-601.9
+f499l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",-0.0,0.8503,,
+f500s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH, ABP",0.0,0.7026,86.9,55.4
+v501l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.6447,102.8,65.8
+v502s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.663,103.4,69.1
+t503l,Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.4,1.3968,,
+t504s,Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.2,1.4037,,
+v505l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.5,1.6826,,
+t506s,Tachycardia,False,250,300.0,"II, V, PLETH",3.1,0.7768,,
+t507l,Tachycardia,False,250,330.0,"II, V, PLETH",3.8,0.7757,,
+t508s,Tachycardia,False,250,300.0,"II, V, PLETH",4.8,1.9899,,
+t509l,Tachycardia,False,250,330.0,"II, V, PLETH",2.5,0.7471,,
+v510s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.4,0.4023,,
+v511l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",1.9,0.7347,,
+a512s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.4,0.9595,,
+v513l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.5,0.7298,,
+a514s,Asystole,True,250,300.0,"II, V, PLETH, RESP",10.6,0.8812,,
+b515l,Bradycardia,False,250,330.0,"II, V, PLETH, ABP",1.9,1.3241,60.6,37.2
+b516s,Bradycardia,False,250,300.0,"II, V, PLETH, ABP",1.9,1.1404,54.6,33.6
+b517l,Bradycardia,False,250,330.0,"II, V, PLETH, ABP",1.9,1.2947,55.5,32.6
+v518s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",4.9,2.6638,80.3,51.1
+v519l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",5.0,1.1938,83.9,52.9
+t520s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",20.9,1.0552,,
+t521l,Tachycardia,False,250,330.0,"II, V, PLETH, RESP",20.9,0.5176,,
+v522s,Ventricular Tachycardia,False,250,300.0,"II, V, ABP, RESP",,1.5093,146.2,111.7
+v523l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.4518,149.0,122.0
+t524s,Tachycardia,False,250,300.0,"II, V, PLETH",3.6,0.8042,,
+v525l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",3.8,1.1953,,
+a526s,Asystole,True,250,300.0,"II, V, PLETH, ABP",1.7,0.4636,145.9,134.2
+a527l,Asystole,True,250,330.0,"II, V, PLETH, ABP",1.8,0.63,111.1,79.6
+b528s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.1,0.0,142.1,108.2
+f529l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, ABP",0.0,0.0,142.2,96.9
+f530s,Ventricular Flutter Fib,True,250,300.0,"II, V, ABP",,0.8301,-601.9,-601.9
+v531l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.5966,-601.9,-601.9
+v532s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",3.3,0.5731,,
+v533l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.6,1.5119,,
+v534s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.5,0.5601,,
+v535l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",3.1,2.2379,601.9,601.9
+v536s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",3.1,2.5272,9.6,4.7
+b537l,Bradycardia,False,250,330.0,"II, V, PLETH",2.3,1.1751,,
+b538s,Bradycardia,False,250,300.0,"II, V, PLETH",2.1,1.1791,,
+a539l,Asystole,True,250,330.0,"II, V, PLETH, ABP",11.1,0.48,82.8,78.9
+v540s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",10.5,0.8371,15.2,14.4
+v541l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",10.4,1.2073,19.1,17.6
+v542s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, ABP",8.3,0.697,81.5,54.9
+f543l,Ventricular Flutter Fib,False,250,330.0,"II, V, PLETH, ABP",10.5,1.0681,15.0,14.1
+f544s,Ventricular Flutter Fib,False,250,300.0,"II, V, PLETH, ABP",10.3,1.6692,53.1,30.1
+f545l,Ventricular Flutter Fib,False,250,330.0,"II, V, PLETH, ABP",10.9,0.4544,51.3,48.4
+t546s,Tachycardia,False,250,300.0,"II, V, PLETH",2.5,1.8922,,
+t547l,Tachycardia,False,250,330.0,"II, V, PLETH",2.6,1.0915,,
+v548s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.2,0.8337,,
+v549l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",5.6,0.6888,,
+a550s,Asystole,True,250,300.0,"II, V, PLETH, RESP",9.6,0.0,,
+v551l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.3705,196.8,96.2
+v552s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.404,148.2,117.8
+b553l,Bradycardia,True,250,330.0,"II, V, PLETH",2.3,0.8568,,
+b554s,Bradycardia,True,250,300.0,"II, V, PLETH",2.6,0.7897,,
+a555l,Asystole,True,250,330.0,"II, V, PLETH, ABP",2.4,1.3621,86.7,75.4
+a556s,Asystole,True,250,300.0,"II, V, PLETH, ABP",2.3,1.3996,96.1,66.7
+v557l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.4,1.3887,98.1,68.0
+a558s,Asystole,True,250,300.0,"II, V, PLETH, ABP",2.4,1.3308,85.1,71.7
+v559l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",2.9,0.925,89.0,49.9
+b560s,Bradycardia,False,250,300.0,"II, V, PLETH, ABP",2.5,0.8166,79.3,52.3
+b561l,Bradycardia,False,250,330.0,"II, V, PLETH, ABP",2.7,0.8959,86.7,58.1
+b562s,Bradycardia,False,250,300.0,"II, V, PLETH, ABP",2.7,0.8292,79.9,52.6
+f563l,Ventricular Flutter Fib,False,250,330.0,"II, V, PLETH, ABP",0.1,0.6122,46.7,12.0
+v564s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, ABP",0.0,0.7838,55.5,32.8
+t565l,Tachycardia,False,250,330.0,"II, V, PLETH",2.4,0.7942,,
+v566s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",5.1,3.723,,
+t567l,Tachycardia,False,250,330.0,"II, V, PLETH",4.6,0.4268,,
+v568s,Ventricular Tachycardia,True,250,300.0,"II, III, PLETH, ABP",4.1,0.942,103.1,69.5
+v569l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.9339,92.5,48.2
+v570s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.9667,-200.4,-226.4
+v571l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",0.0,0.7466,85.7,56.4
+f572s,Ventricular Flutter Fib,True,250,300.0,"II, V, ABP, RESP",,1.5057,108.8,74.9
+v573l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",2.7,3.0731,99.7,66.7
+v574s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",4.3,1.7743,,
+v575l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.3,0.9462,,
+f576s,Ventricular Flutter Fib,True,250,300.0,"II, V, ABP",,1.4878,67.9,43.6
+t577l,Tachycardia,False,250,330.0,"II, III, PLETH",2.9,0.6792,,
+b578s,Bradycardia,False,250,300.0,"II, V, ABP, RESP",,1.2257,60.8,44.2
+v579l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.7434,116.8,81.2
+t580s,Tachycardia,False,250,300.0,"II, V, PLETH",2.3,0.8779,,
+v581l,Ventricular Tachycardia,True,250,330.0,"II, MCL, PLETH",2.4,0.7967,,
+a582s,Asystole,True,250,300.0,"III, V, PLETH",5.8,,,
+v583l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.4,0.9177,,
+a584s,Asystole,True,250,300.0,"II, V, ABP, RESP",,0.7374,82.7,49.2
+v585l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,1.0994,89.6,58.6
+f586s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",2.5,1.0917,,
+b587l,Bradycardia,True,250,330.0,"II, V, PLETH",4.6,0.777,,
+b588s,Bradycardia,False,250,300.0,"II, V, PLETH",2.8,1.0589,,
+t589l,Tachycardia,False,250,330.0,"II, V, PLETH",2.6,0.8476,,
+v590s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.4,1.2854,,
+a591l,Asystole,True,250,330.0,"II, III, PLETH",3.4,0.8487,,
+f592s,Ventricular Flutter Fib,True,250,300.0,"II, V, ABP, RESP",,0.9449,67.4,41.7
+f593l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",6.1,1.7421,,
+t594s,Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.9651,79.7,48.9
+t595l,Tachycardia,False,250,330.0,"II, V, PLETH",2.5,1.1055,,
+v596s,Ventricular Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.9096,94.0,65.7
+v597l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",3.3,0.7303,,
+v598s,Ventricular Tachycardia,True,250,300.0,"II, III, PLETH",2.3,1.448,,
+a599l,Asystole,True,250,330.0,"II, V, PLETH",2.6,0.996,,
+b600s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",-0.0,1.6929,43.4,29.3
+v601l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.5,2.4897,,
+f602s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",5.5,2.6578,,
+a603l,Asystole,True,250,330.0,"II, V, PLETH",1.8,1.1933,,
+a604s,Asystole,False,250,300.0,"II, V, PLETH, RESP",-1.1,1.2261,,
+f605l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",2.4,0.7914,,
+a606s,Asystole,True,250,300.0,"II, V, PLETH",5.0,2.6648,,
+v607l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.2512,91.5,60.6
+a608s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.3,0.0,,
+v609l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.5,1.2406,,
+f610s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",2.3,1.5192,,
+v611l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,1.7009,104.7,76.4
+v612s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,4.7859,81.9,51.3
+f613l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",5.5,0.8096,,
+t614s,Tachycardia,False,250,300.0,"II, V, PLETH",2.1,0.754,,
+v615l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,1.0083,127.5,98.3
+v616s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",4.9,0.9774,,
+b617l,Bradycardia,True,250,330.0,"II, V, PLETH",8.2,0.4729,,
+f618s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",3.2,0.3261,,
+v619l,Ventricular Tachycardia,True,250,330.0,"I, aVL, ABP, RESP",,,73.8,44.9
+v620s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",9.9,0.9684,111.3,88.9
+v621l,Ventricular Tachycardia,True,250,330.0,"II, III, PLETH",2.0,3.5733,,
+t622s,Tachycardia,False,250,300.0,"III, V, PLETH",5.3,,,
+v623l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",4.1,0.0,,
+a624s,Asystole,True,250,300.0,"II, V, PLETH",2.3,2.3531,,
+v625l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.8,78.4,43.6
+v626s,Ventricular Tachycardia,False,250,300.0,"II, V, ABP",,0.6929,99.2,56.1
+v627l,Ventricular Tachycardia,True,250,330.0,"II, III, PLETH",2.3,0.9544,,
+v628s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",2.4,1.5228,,
+v629l,Ventricular Tachycardia,False,250,330.0,"III, V, ABP, RESP",,,100.9,66.4
+v630s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",7.0,1.6323,,
+a631l,Asystole,True,250,330.0,"II, V, PLETH",2.6,0.8331,,
+v632s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.4,2.5148,,
+v633l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",4.6,0.6108,,
+v634s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.1,4.7627,,
+v635l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, RESP",2.3,1.3662,,
+v636s,Ventricular Tachycardia,False,250,300.0,"II, MCL, PLETH",4.4,0.8961,,
+f637l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, RESP",2.2,0.9644,,
+v638s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",2.4,0.929,,
+a639l,Asystole,False,250,330.0,"II, V, ABP, RESP",,1.8135,63.1,36.0
+v640s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.3,1.223,,
+v641l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",3.9,1.0317,,
+f642s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",12.3,1.2118,,
+v643l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.3,0.6575,,
+v644s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.1,1.1707,,
+a645l,Asystole,True,250,330.0,"II, V, PLETH, RESP",2.1,11.8578,,
+v646s,Ventricular Tachycardia,False,250,300.0,"II, V, ABP",,3.0231,86.6,50.9
+v647l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.2,0.7845,,
+v648s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, ABP",2.3,1.317,79.0,49.8
+v649l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",-0.0,0.7702,-601.9,-601.9
+a650s,Asystole,True,250,300.0,"II, V, PLETH",2.2,0.7434,,
+a651l,Asystole,True,250,330.0,"II, V, PLETH, ABP",0.0,0.4861,48.6,32.4
+v652s,Ventricular Tachycardia,False,250,300.0,"II, aVR, PLETH",2.1,0.8145,,
+a653l,Asystole,False,250,330.0,"II, V, ABP, RESP",,0.2432,70.6,54.5
+a654s,Asystole,False,250,300.0,"II, V, PLETH, RESP",-0.0,1.2716,,
+v655l,Ventricular Tachycardia,True,250,330.0,"II, III, PLETH",2.7,0.8375,,
+b656s,Bradycardia,False,250,300.0,"II, V, PLETH",2.4,0.7666,,
+f657l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH, ABP",2.3,1.1491,-107.1,-107.1
+v658s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,2.1183,77.7,39.3
+b659l,Bradycardia,False,250,330.0,"II, V, PLETH, ABP",5.1,1.6357,60.4,41.3
+v660s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,0.8654,107.4,81.6
+a661l,Asystole,True,250,330.0,"III, V, PLETH",2.3,,,
+t662s,Tachycardia,False,250,300.0,"II, V, PLETH",2.8,0.9475,,
+v663l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",4.1,0.8034,103.0,71.2
+b664s,Bradycardia,False,250,300.0,"II, V, PLETH, RESP",2.2,0.9906,,
+t665l,Tachycardia,False,250,330.0,"III, V, PLETH",2.5,,,
+v666s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.2,0.9587,,
+a667l,Asystole,True,250,330.0,"II, III, PLETH",2.4,1.0587,,
+a668s,Asystole,True,250,300.0,"II, V, PLETH, RESP",-0.3,0.0014,,
+b669l,Bradycardia,True,250,330.0,"II, V, PLETH, RESP",0.0,0.315,,
+a670s,Asystole,False,250,300.0,"II, V, ABP",,0.6904,51.2,23.2
+v671l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",2.4,1.9125,,
+b672s,Bradycardia,False,250,300.0,"I, V, PLETH, RESP",4.9,,,
+a673l,Asystole,True,250,330.0,"II, V, PLETH",2.3,0.282,,
+v674s,Ventricular Tachycardia,True,250,300.0,"II, MCL, ABP, RESP",,0.7677,54.0,32.9
+a675l,Asystole,True,250,330.0,"III, MCL, ABP",,,68.9,40.5
+v676s,Ventricular Tachycardia,True,250,300.0,"II, MCL, ABP, RESP",,1.1567,58.4,35.8
+t677l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.9974,93.3,62.9
+t678s,Tachycardia,False,250,300.0,"II, V, PLETH",2.4,0.8454,,
+t679l,Tachycardia,False,250,330.0,"II, V, PLETH",4.2,0.9666,,
+t680s,Tachycardia,False,250,300.0,"II, V, PLETH, ABP",7.8,0.833,91.2,63.2
+b681l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",-0.0,0.8157,186.1,139.9
+v682s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.6044,-601.9,-601.9
+t683l,Tachycardia,False,250,330.0,"II, V, PLETH",3.4,0.8164,,
+b684s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,1.3718,-36.7,-39.2
+b685l,Bradycardia,True,250,330.0,"II, V, PLETH",0.0,1.1102,,
+v686s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.2,2.1831,,
+v687l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.8,0.3454,,
+t688s,Tachycardia,False,250,300.0,"II, V, PLETH",4.0,0.8518,,
+t689l,Tachycardia,False,250,330.0,"II, aVL, PLETH, RESP",2.3,0.8853,,
+t690s,Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.9187,80.8,46.2
+f691l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",2.3,0.7163,,
+v692s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",6.0,5.3876,,
+t693l,Tachycardia,False,250,330.0,"aVF, V, PLETH",3.9,,,
+a694s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.3,0.8161,,
+b695l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.0463,-58.0,-101.3
+v696s,Ventricular Tachycardia,False,250,300.0,"II, MCL, PLETH",2.9,1.6135,,
+f697l,Ventricular Flutter Fib,False,250,330.0,"II, V, PLETH, ABP",2.6,0.5013,43.1,13.5
+t698s,Tachycardia,False,250,300.0,"II, V, PLETH",2.5,0.9063,,
+a699l,Asystole,True,250,330.0,"II, V, PLETH, RESP",-0.3,1.4806,,
+t700s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.1,0.9357,,
+v701l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.1292,91.2,67.8
+t702s,Tachycardia,False,250,300.0,"II, aVR, ABP, RESP",,0.9261,65.4,38.2
+b703l,Bradycardia,True,250,330.0,"II, V, PLETH",0.0,0.8059,,
+v704s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.4,2.6335,,
+a705l,Asystole,True,250,330.0,"II, V, PLETH",2.2,0.9704,,
+b706s,Bradycardia,True,250,300.0,"II, V, PLETH, ABP",0.0,0.872,-84.2,-124.0
+t707l,Tachycardia,False,250,330.0,"II, MCL, ABP, RESP",,0.8401,147.1,114.6
+b708s,Bradycardia,False,250,300.0,"II, V, ABP, RESP",,0.6607,116.6,82.7
+t709l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.1595,111.7,75.6
+v710s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",3.5,1.5011,,
+v711l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",4.4,1.0132,,
+a712s,Asystole,True,250,300.0,"II, V, PLETH",3.8,1.8451,,
+v713l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.5,0.7655,,
+v714s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",3.0,1.5238,,
+a715l,Asystole,True,250,330.0,"II, aVR, ABP",,0.9825,129.4,100.7
+t716s,Tachycardia,False,250,300.0,"II, V, PLETH",10.1,1.3522,,
+t717l,Tachycardia,False,250,330.0,"II, V, PLETH",3.8,1.4965,,
+v718s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,2.0981,80.4,46.7
+t719l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.0816,45.2,23.7
+v720s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.5,1.2456,85.7,42.3
+v721l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.1,0.9376,0.0,0.0
+b722s,Bradycardia,False,250,300.0,"II, V, ABP, RESP",,0.5204,104.7,71.0
+a723l,Asystole,True,250,330.0,"II, V, ABP, RESP",,0.4422,93.2,68.8
+v724s,Ventricular Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.7093,72.6,45.2
+v725l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",7.6,1.259,,
+v726s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, ABP",2.5,0.4639,106.9,74.2
+v727l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,1.6571,83.7,56.4
+v728s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.3,1.0564,,
+v729l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,0.7046,69.9,38.8
+b730s,Bradycardia,False,250,300.0,"II, V, PLETH",2.9,1.0572,,
+t731l,Tachycardia,False,250,330.0,"II, V, PLETH, ABP",3.4,0.8155,115.2,79.6
+v732s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.0,3.4349,,
+v733l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",2.7,1.0882,,
+b734s,Bradycardia,False,250,300.0,"II, V, PLETH",-0.0,0.9891,,
+a735l,Asystole,True,250,330.0,"II, V, PLETH, ABP",0.0,0.0019,601.9,601.9
+v736s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.9,4.8339,,
+t737l,Tachycardia,False,250,330.0,"II, V, PLETH",2.4,1.0847,,
+v738s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",8.1,0.8309,,
+t739l,Tachycardia,False,250,330.0,"III, V, PLETH, ABP",5.2,,160.4,121.2
+a740s,Asystole,True,250,300.0,"II, V, PLETH, RESP",2.0,1.3954,,
+t741l,Tachycardia,False,250,330.0,"II, V, PLETH",2.3,1.1884,,
+t742s,Tachycardia,False,250,300.0,"II, V, PLETH",7.8,1.7479,,
+v743l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.8156,59.7,31.9
+t744s,Tachycardia,False,250,300.0,"II, V, PLETH",5.1,0.8553,,
+t745l,Tachycardia,False,250,330.0,"II, V, PLETH",2.4,0.9184,,
+a746s,Asystole,True,250,300.0,"I, II, PLETH",2.5,1.9037,,
+t747l,Tachycardia,False,250,330.0,"II, V, PLETH",5.0,0.7118,,
+v748s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",4.8,1.265,,
+v749l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP",,0.7415,57.2,40.6
+a750s,Asystole,True,250,300.0,"II, III, PLETH",2.6,1.141,,
+f751l,Ventricular Flutter Fib,True,250,330.0,"II, MCL, ABP, RESP",,0.7909,74.9,43.9
+t752s,Tachycardia,False,250,300.0,"II, III, PLETH",4.7,1.1942,,
+b753l,Bradycardia,True,250,330.0,"II, V, PLETH, RESP",0.3,2.1497,,
+a754s,Asystole,False,250,300.0,"II, V, ABP, RESP",,0.6133,65.9,28.0
+t755l,Tachycardia,False,250,330.0,"II, V, PLETH",3.1,0.8439,,
+v756s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,0.7036,77.9,35.0
+b757l,Bradycardia,False,250,330.0,"II, V, ABP, RESP",,1.1104,83.6,59.6
+v758s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, ABP",6.2,1.3978,279.3,226.6
+v759l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.9211,136.8,103.4
+t760s,Tachycardia,False,250,300.0,"II, III, PLETH, ABP",5.4,0.8288,87.6,55.2
+v761l,Ventricular Tachycardia,False,250,330.0,"II, MCL, PLETH, RESP",3.8,1.6332,,
+t762s,Tachycardia,False,250,300.0,"II, V, PLETH",2.5,0.8984,,
+v763l,Ventricular Tachycardia,True,250,330.0,"II, III, PLETH",2.3,0.7888,,
+b764s,Bradycardia,False,250,300.0,"II, V, PLETH",2.1,1.0884,,
+v765l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.697,89.8,49.5
+v766s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",3.6,1.3535,,
+v767l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",-0.0,1.542,-601.9,-601.9
+f768s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",3.5,0.9594,,
+v769l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",4.8,1.0304,,
+v770s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",5.7,2.8031,,
+t771l,Tachycardia,False,250,330.0,"II, V, PLETH",2.7,1.0332,,
+v772s,Ventricular Tachycardia,False,250,300.0,"II, MCL, ABP, RESP",,1.2138,57.5,33.1
+v773l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",2.7,1.0069,,
+v774s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.4,0.0,,
+v775l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.4,2.2892,,
+a776s,Asystole,False,250,300.0,"II, V, ABP",,0.6146,58.6,24.7
+t777l,Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.0028,63.5,41.1
+a778s,Asystole,True,250,300.0,"II, V, PLETH, ABP",0.0,0.4461,-601.9,-601.9
+v779l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,0.8131,111.2,79.8
+a780s,Asystole,True,250,300.0,"II, V, PLETH, ABP",3.1,0.6981,345.2,276.8
+v781l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",1.9,1.1229,,
+v782s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.8,2.3474,,
+v783l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH",0.0,0.6244,,
+v784s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.2,1.1946,,
+a785l,Asystole,True,250,330.0,"II, V, PLETH",2.4,0.9932,,
+t786s,Tachycardia,False,250,300.0,"II, V, PLETH",2.0,0.8384,,
+t787l,Tachycardia,False,250,330.0,"II, V, PLETH",7.5,0.6913,,
+v788s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",7.5,2.4136,,
+f789l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",9.0,0.7665,,
+t790s,Tachycardia,False,250,300.0,"II, V, PLETH",2.6,1.4617,,
+v791l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.6,0.8312,,
+f792s,Ventricular Flutter Fib,True,250,300.0,"II, V, PLETH",4.1,1.927,,
+v793l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.8938,81.5,57.6
+b794s,Bradycardia,False,250,300.0,"II, V, PLETH",2.2,1.2862,,
+v795l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,0.8143,88.4,65.2
+a796s,Asystole,False,250,300.0,"II, V, PLETH, RESP",2.8,0.2978,,
+v797l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.3972,75.7,50.6
+a798s,Asystole,True,250,300.0,"II, MCL, PLETH, RESP",2.5,1.3265,,
+f799l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",3.0,1.0921,,
+t800s,Tachycardia,False,250,300.0,"II, V, PLETH, RESP",2.1,0.5285,,
+t801l,Tachycardia,False,250,330.0,"II, V, PLETH",4.8,1.0569,,
+a802s,Asystole,True,250,300.0,"II, V, PLETH",2.9,1.0821,,
+v803l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",2.2,0.534,79.8,53.2
+v804s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",2.5,1.9787,,
+v805l,Ventricular Tachycardia,False,250,330.0,"II, III, PLETH",4.7,0.9118,,
+v806s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",3.6,2.557,,
+a807l,Asystole,True,250,330.0,"II, V, ABP, RESP",,1.4157,59.8,41.3
+v808s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP",,0.5826,75.4,43.1
+v809l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, RESP",3.6,11.7453,,
+a810s,Asystole,True,250,300.0,"II, V, PLETH, ABP",2.5,1.4021,96.9,61.0
+v811l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP",,0.8974,119.8,87.2
+t812s,Tachycardia,False,250,300.0,"II, V, PLETH",2.2,1.0987,,
+v813l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.1652,107.7,80.9
+v814s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.6,2.2228,,
+v815l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",8.9,1.4551,80.4,60.2
+t816s,Tachycardia,False,250,300.0,"II, V, PLETH, ABP",3.7,0.9494,94.9,64.1
+t817l,Tachycardia,True,250,330.0,"II, III, PLETH",2.4,0.7409,,
+v818s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH",2.5,1.5672,,
+a819l,Asystole,True,250,330.0,"II, V, PLETH",2.4,0.5199,,
+b820s,Bradycardia,False,250,300.0,"II, V, PLETH",2.7,0.9418,,
+t821l,Tachycardia,False,250,330.0,"II, V, PLETH",2.7,1.0097,,
+a822s,Asystole,True,250,300.0,"II, V, ABP, RESP",,1.4148,120.7,95.6
+v823l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, RESP",2.3,1.0823,,
+b824s,Bradycardia,True,250,300.0,"I, V, ABP, RESP",,,60.2,30.6
+a825l,Asystole,True,250,330.0,"II, V, PLETH, RESP",3.9,0.0,,
+v826s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, ABP",2.9,1.2135,83.8,53.3
+v827l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP",,0.974,95.8,65.8
+v828s,Ventricular Tachycardia,False,250,300.0,"II, V, PLETH, RESP",3.2,1.5095,,
+f829l,Ventricular Flutter Fib,True,250,330.0,"II, V, PLETH",4.0,0.7579,,
+v830s,Ventricular Tachycardia,True,250,300.0,"II, V, ABP, RESP",,0.9239,56.7,28.7
+v831l,Ventricular Tachycardia,False,250,330.0,"II, V, PLETH, ABP",2.2,1.351,92.0,58.2
+b832s,Bradycardia,False,250,300.0,"II, V, PLETH, RESP",4.3,0.5969,,
+v833l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH, ABP",2.0,0.8905,93.1,65.9
+v834s,Ventricular Tachycardia,True,250,300.0,"II, MCL, PLETH",4.3,1.0156,,
+b835l,Bradycardia,True,250,330.0,"II, V, PLETH, ABP",0.0,0.366,90.9,56.4
+v836s,Ventricular Tachycardia,False,250,300.0,"II, V, ABP, RESP",,0.6227,75.7,53.1
+v837l,Ventricular Tachycardia,False,250,330.0,"II, V, ABP, RESP",,1.02,58.1,31.1
+b838s,Bradycardia,False,250,300.0,"II, V, PLETH",2.1,0.7179,,
+b839l,Bradycardia,False,250,330.0,"II, V, PLETH, RESP",2.4,1.2042,,
+b840s,Bradycardia,False,250,300.0,"II, MCL, PLETH",2.4,0.5288,,
+b841l,Bradycardia,True,250,330.0,"II, MCL, ABP",,0.1868,74.6,52.2
+v842s,Ventricular Tachycardia,False,250,300.0,"I, II, ABP, RESP",,1.7268,96.1,18.9
+v843l,Ventricular Tachycardia,True,250,330.0,"II, V, PLETH",2.1,0.7896,,
+v844s,Ventricular Tachycardia,False,250,300.0,"II, MCL, ABP, RESP",,0.5773,66.1,43.4
+v845l,Ventricular Tachycardia,True,250,330.0,"II, V, ABP, RESP",,0.8914,112.2,80.1
+v846s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH, RESP",3.5,1.3265,,
+a847l,Asystole,True,250,330.0,"II, V, ABP, RESP",,0.7112,104.7,74.3
+v848s,Ventricular Tachycardia,True,250,300.0,"II, V, PLETH",2.2,0.7522,,
+b849l,Bradycardia,True,250,330.0,"II, V, PLETH",4.1,0.9778,,
