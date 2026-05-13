@@ -214,7 +214,7 @@ ROOT = Path(__file__).parent.parent
 
 # tura 1 (zi): 06:00 - 14:00 -> 600 alarme
 tura1 = generate_alarm_stream(
-    n_alarms=600,
+    n_alarms=1000,
     seed=42,
     start_time=datetime(2024, 1, 15, 6, 0, 0))
 
