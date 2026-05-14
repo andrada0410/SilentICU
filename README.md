@@ -76,7 +76,7 @@ Surse ICU (Monitor A, Monitor B, EHR, IV Pump, Ventilator)
 
 | Câmp          | Tip           | Exemplu                                |
 |---------------|---------------|----------------------------------------|
-| `alarm_id`    | string        | `1`                                    |
+| `alarm_id`    | string        | `1` (simulate), `PHY_b484s` (PhysioNet)   |
 | `timestamp`   | datetime      | `2024-01-15 06:00:13`                  |
 | `message`     | text liber | `Poor electrode contact`               |
 | `source_type` | enum          | `IV Pump`, `EHR System`, `Monitor C`   |
