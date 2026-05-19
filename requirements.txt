@@ -5,3 +5,5 @@ matplotlib
 seaborn
 sentence_transformers
 ipywidgets
+python-dotenv
+openai
