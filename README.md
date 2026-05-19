@@ -60,8 +60,8 @@ Un sistem bazat pe **text identic** nu detectează că aceste alarme descriu ace
         │         SENTENCE-BERT  (all-MiniLM-L6-v2)          │
         │   "Heart rate too high"  → [0.12, -0.45, 0.87 ...] │
         │   "Tachycardia detected" → [0.11, -0.43, 0.85 ...] │
-        │               cosine similarity = 0.94  ✓           │
-        │          ARI: 0.6318 (superior MPNet 0.5518)        │
+        │               cosine similarity = 0.94  ✓          │
+        │          ARI: 0.6318 (superior MPNet 0.5518)       │
         └─────────────────────┬──────────────────────────────┘
                               ↓  similaritate ≥ 0.80
                                 + fereastră ≤ 10 min
