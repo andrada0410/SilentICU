@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-05-19T16:10:01.924872",
+  "threshold": 0.8,
+  "time_window_min": 10,
+  "model_embeddings": "all-MiniLM-L6-v2",
+  "model_agent": "gpt-4o",
+  "deduplication": {
+    "total_alarms": 2878,
+    "total_clusters": 602,
+    "duplicate_clusters": 424,
+    "alarms_suppressed": 2276,
+    "deduplication_rate": 0.7908269631688672,
+    "precision": 0.5807407407407408,
+    "recall": 0.9417417417417417,
+    "f1": 0.7184421534936999,
+    "false_merge_rate": 0.9332234130255564,
+    "true_positive": 1568,
+    "false_positive": 1132,
+    "false_negative": 97,
+    "true_negative": 81
+  },
+  "clustering": {
+    "ari": 0.03603555380325218,
+    "nmi": 0.4659562467946557,
+    "homogeneity": 0.9127371728581322,
+    "completeness": 0.31282819089520864,
+    "v_measure": 0.46595624679465564,
+    "n_true_groups": 11,
+    "n_predicted_clusters": 602
+  },
+  "agent": {
+    "total_processed": 424,
+    "success_rate": 1.0,
+    "tool_call_completeness": 1.0,
+    "severity_accuracy": 0.9905660377358491,
+    "severity_within_one": 1.0,
+    "avg_processing_time_s": 7.578983490566038,
+    "total_processing_time_s": 3213.489,
+    "errors": 0,
+    "action_distribution": {
+      "emergency": 130,
+      "intervene": 14,
+      "assess": 170,
+      "monitor": 110
+    }
+  },
+  "threshold_comparison": [
+    {
+      "threshold": 0.7,
+      "deduplication_rate": 0.8641,
+      "alarms_suppressed": 2487,
+      "total_clusters": 391,
+      "duplicate_clusters": 287,
+      "ari": 0.0394,
+      "false_merge_rate": 0.9613
+    },
+    {
+      "threshold": 0.75,
+      "deduplication_rate": 0.8238,
+      "alarms_suppressed": 2371,
+      "total_clusters": 507,
+      "duplicate_clusters": 355,
+      "ari": 0.0391,
+      "false_merge_rate": 0.9439
+    },
+    {
+      "threshold": 0.8,
+      "deduplication_rate": 0.7908,
+      "alarms_suppressed": 2276,
+      "total_clusters": 602,
+      "duplicate_clusters": 424,
+      "ari": 0.036,
+      "false_merge_rate": 0.9332
+    },
+    {
+      "threshold": 0.85,
+      "deduplication_rate": 0.7658,
+      "alarms_suppressed": 2204,
+      "total_clusters": 674,
+      "duplicate_clusters": 478,
+      "ari": 0.0236,
+      "false_merge_rate": 0.925
+    },
+    {
+      "threshold": 0.9,
+      "deduplication_rate": 0.7328,
+      "alarms_suppressed": 2109,
+      "total_clusters": 769,
+      "duplicate_clusters": 534,
+      "ari": 0.0219,
+      "false_merge_rate": 0.9126
+    }
+  ]
+}
