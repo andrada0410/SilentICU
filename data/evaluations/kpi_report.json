@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T16:10:01.924872",
+  "timestamp": "2026-05-19T17:27:04.242298",
   "threshold": 0.8,
   "time_window_min": 10,
   "model_embeddings": "all-MiniLM-L6-v2",
@@ -29,19 +29,19 @@
     "n_predicted_clusters": 602
   },
   "agent": {
-    "total_processed": 424,
+    "total_processed": 328,
     "success_rate": 1.0,
     "tool_call_completeness": 1.0,
-    "severity_accuracy": 0.9905660377358491,
+    "severity_accuracy": 0.7682926829268293,
     "severity_within_one": 1.0,
-    "avg_processing_time_s": 7.578983490566038,
-    "total_processing_time_s": 3213.489,
+    "avg_processing_time_s": 6.1047164634146345,
+    "total_processing_time_s": 2002.347,
     "errors": 0,
     "action_distribution": {
-      "emergency": 130,
-      "intervene": 14,
-      "assess": 170,
-      "monitor": 110
+      "assess": 102,
+      "monitor": 123,
+      "emergency": 93,
+      "intervene": 10
     }
   },
   "threshold_comparison": [

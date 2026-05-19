@@ -7,3 +7,4 @@ sentence_transformers
 ipywidgets
 python-dotenv
 openai
+streamlit
