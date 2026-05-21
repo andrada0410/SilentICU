@@ -493,7 +493,7 @@ with tab_dedup:
 
 # tab 3 — agent llm
 with tab_agent:
-    st.subheader("Rezultatele agentului LLM — Gemini 1.5 Flash")
+    st.subheader("Rezultatele agentului LLM — GPT-4o")
 
     if 'agent_results' not in data:
         st.info("Rulează agent.ipynb pentru a genera agent_results.json")
