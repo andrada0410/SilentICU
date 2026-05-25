@@ -716,7 +716,7 @@ with tab_embed:
 
 # tab 5 — alarme brute
 with tab_raw:
-    st.subheader("Alarme brute — date combinate (Etapa 1)")
+    st.subheader("Alarme brute — date combinate")
 
     if 'df_raw' not in data:
         st.info("Rulează data_evaluation.ipynb pentru a genera alarms_combined.csv")
