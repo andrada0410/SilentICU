@@ -184,6 +184,9 @@ streamlit run src/dashboard.py
 
 ---
 
+### LINK TEASER
+https://youtu.be/Ui7bOrlZZPw
+
 ## Surse
 
 - Uçak, S. et al. (2025). *Nurses' Alarm Fatigue Levels in Adult ICUs.* Journal of Clinical Nursing. doi:10.1111/jocn.17644
