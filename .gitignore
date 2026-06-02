@@ -1,0 +1,3 @@
+data/raw/physionet/training/*.mat
+data/raw/physionet/training/*.hea
+src/__pycache__/
